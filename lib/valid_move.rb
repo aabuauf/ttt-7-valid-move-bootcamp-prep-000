@@ -9,7 +9,6 @@ def valid_move?(board,index)
   elsif board[index]= " " || board[index]=""
     true
   
-  else
-    false
+ 
   end
 end
